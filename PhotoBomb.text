@@ -1,0 +1,34 @@
+PhotoBomb is a photo sharing platform designed to help users upload, organize, and share their images in a smart and social environment. It supports user registration, secure login, album creation, image tagging, and personalized sharing options—making photo management simple and interactive.
+
+This application is ideal for individuals or groups who want to store, curate, and share memories, whether casually with friends or in a more structured community setting. It includes features like private albums, tagging, and friend-based visibility controls, with potential for future AI-driven enhancements like automatic image recognition.
+
+For this project, I used React.js for the Frontend, Node.js with Express for the Backend, MongoDB for the Database, and JWT for Authentication.
+
+Features List
+Users:
+
+Register and Login
+
+Add friends and manage connections
+
+View public and shared photo albums
+
+Photos & Albums:
+
+Upload images
+
+Create, edit, and delete albums
+
+Tag photos manually 
+
+Set visibility (public, private, shared with friends)
+
+View photo details
+
+Profiles:
+
+View user details and shared content
+
+Personal dashboard with albums, shared photos, and interactions
+
+GitHub Repository : https://github.com/chatteli-sami/PhotoBomb
